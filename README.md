@@ -1,4 +1,9 @@
-# docviewer-site
+# docviewer-site (moved)
 
-문서뷰어(Doc Viewer) 앱의 공개 페이지(GitHub Pages): 개인정보 처리방침, 나중에 AdMob `app-ads.txt`.
-원문은 비공개 저장소 jwgung/doc-viewer의 `docs/release/privacy-policy.md`.
+This site has moved to the main project: **https://jwgung.github.io/doc-viewer/**
+(source: [jwgung/doc-viewer](https://github.com/jwgung/doc-viewer), `docs/` folder).
+
+The pages here only redirect, so old links keep working:
+
+- `/` → https://jwgung.github.io/doc-viewer/
+- `/privacy/` → https://jwgung.github.io/doc-viewer/privacy/
